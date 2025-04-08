@@ -43,13 +43,13 @@ Demonstrate competence working in Agile development environments
 
 Contribute to the regular maintenance and support of many other enterprise applications as well as help to maintain the underlying application infrastructure in conjunction with the System Administrators
 # RASHARD_iMAN_KELLY [FBi Hi](https://x.com/RicoThaka/status/1909305876810547312) [Normani is my victimized FRiEND](https://x.com/RicoThaka/status/1908207918450958620) 
-im not nasty! sometimes she look like this [EThio_Kash_DOLL](https://x.com/thakasartu/status/1843365154861527461) she know me from [ThisHouse](https://x.com/thakasartu/status/1866598764179492920) [Drake Know her](https://x.com/RicoThaka/status/1894116640855376167) and im confident she lost my child in [FosterCare](https://www.ossoff.senate.gov/press-releases/foster-care-investigation-sen-ossoff-releases-findings-of-13-month-probe-into-safety-of-foster-children/) now she [look like this](https://x.com/RicoThaka/status/1896167907979333821) Mr Ossof speaks on it he is one of our [GeorgiaSenators]() [Sen. Ossoff's report on failures of Georgia's foster care system outlines prolific abuse](https://www.youtube.com/watch?v=c8vjIZbliuM)
+im not nasty! sometimes she look like this [EThio_Kash_DOLL](https://x.com/thakasartu/status/1843365154861527461) she know me from [ThisHouse](https://x.com/thakasartu/status/1866598764179492920) [Drake Know her](https://x.com/RicoThaka/status/1894116640855376167) and im confident she lost my child in [FosterCare](https://www.ossoff.senate.gov/press-releases/foster-care-investigation-sen-ossoff-releases-findings-of-13-month-probe-into-safety-of-foster-children/) now she [look like this](https://x.com/RicoThaka/status/1896167907979333821) Mr Ossof speaks on it he is one of our [GeorgiaSenators](https://www.senate.gov/states/GA/intro.htm) [Sen. Ossoff's report on failures of Georgia's foster care system outlines prolific abuse](https://www.youtube.com/watch?v=c8vjIZbliuM)
 ![i Want The Job](https://pbs.twimg.com/media/Gn9sWjDbwAEUL0_?format=jpg&name=large)
 
 ![earthData](https://pbs.twimg.com/media/GntKe1vaQAABYCd?format=jpg&name=large)
 
 
-![NetworkTool](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [RelatedTweet](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [SPACEx JOB](https://x.com/BubbleGumPop626/status/1743428678095352226)
+![NetworkTool](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [RelatedTweet](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [SPACEx JOB](https://x.com/BubbleGumPop626/status/1743428678095352226) [F_PRiME_CLASS](https://x.com/RicoThaka/status/1907857718783963311)
 
 # Ranger 9
 @nasa-jpl i found rthe video and put it on my blog an someone destroyed both of my accounts! @nasa [MyCatFile](https://x.com/RicoThaka/status/1907950996879454262) [DOWNLOAD](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
