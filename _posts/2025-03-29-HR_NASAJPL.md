@@ -49,7 +49,9 @@ im not nasty! sometimes she look like this [EThio_Kash_DOLL](https://x.com/thaka
 ![earthData](https://pbs.twimg.com/media/GntKe1vaQAABYCd?format=jpg&name=large)
 
 
-![NetworkTool](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [RelatedTweet](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [SPACEx JOB](https://x.com/BubbleGumPop626/status/1743428678095352226) [F_PRiME_CLASS](https://x.com/RicoThaka/status/1907857718783963311)
+![NetworkTool](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [RelatedTweet](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [SPACEx JOB](https://x.com/BubbleGumPop626/status/1743428678095352226) [F_PRiME_CLASS](https://x.com/RicoThaka/status/1907857718783963311) [GithubProgressLost!](https://x.com/RicoThaka/status/1909355919487778952)
+![progress](https://pbs.twimg.com/media/Gn9k_XKbwAAzdv5?format=jpg&name=large)
+![gh](https://pbs.twimg.com/media/Gn9jI7uagAAKlNB?format=jpg&name=large)
 
 # Ranger 9
 @nasa-jpl i found rthe video and put it on my blog an someone destroyed both of my accounts! @nasa [MyCatFile](https://x.com/RicoThaka/status/1907950996879454262) [DOWNLOAD](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
@@ -57,6 +59,8 @@ im not nasty! sometimes she look like this [EThio_Kash_DOLL](https://x.com/thaka
 
 
 [RelatedTweet](https://x.com/RicoThaka/status/1907950487137312896/photo/1)
+
+![me](https://pbs.twimg.com/media/Gn90Do7bwAcQs2V?format=png&name=4096x4096)
 # COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER
   [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) I know u moonlight with [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) at time, r u getting your compensation ? [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
   [RelatedTweet](https://x.com/RicoThaka/status/1907617772881969497) [FuLL_DoC - Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-14141) @CityOfLosAngeles [Welcome to the Los Angeles Aqueduct - Real Time Data](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm) [Los Angeles River - The Unpredictable! - https://waterandpower.org/](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [The Key to California’s Survival Is Hidden Underground -wired.com](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/) *WATER IS URBAN*  [The @GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
