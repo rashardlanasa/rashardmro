@@ -8,6 +8,55 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+### Computer Systems Engineer III
+Software and Computing Systems  R5139  Regular  CityPasadena  California
+
+# Job Details
+New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.
+
+Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.
+
+JPL is seeking a Computer Systems Engineer to join the Enterprise Technology Special Programs Office in support of JPL’s National Partnerships Office. As part of the IT Special Programs team, the candidate will provide daily operational and expert support for highly available COTS and custom applications, systems, and platforms to solve a wide array of customer needs and requests and enable projects to perform and deliver on milestones and deadlines to non-NASA sponsors. The Computer Systems Engineer is responsible for effective installation/configuration, operation, and maintenance of software and systems along with related support infrastructure. This individual also participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that software systems and related procedures adhere to organizational values and sponsor and cybersecurity requirements. Candidates must be self-starters and be able to solve complex problems with minimal supervision.
+
+## The Computer Systems Engineer will:
+
+- Provide expert support of cleared environment applications and services, as well as software and solution development capabilities, to include but not limited to:
+
+- Experience maintaining core enterprise COTS and custom developed applications in highly available environments
+
+- Experience automating deployment, patching, and configuration management using Ansible and integrating various technologies including VMware, Jenkins, and Ansible AWX
+
+- Manage, maintain, and design deployment of various customer software support programs including Gitlab, Artifactory, Invgate ServiceDesk, Invgate Insights, and Atlassian products Jira and Confluence
+
+- Deploy and maintain various authentication methods utilizing LDAP, Active Directory, Kerberos, and RSA multifactor authentication
+
+- Develop middleware tools in Python, BASH, PowerShell to unify multiple disparate systems and simplify the process of account deployment. Other programming languages are a plus.
+
+- Maintain storage and virtualization infrastructure on NetApp, VMware, and VergeIO
+
+- Maintain container environments using Docker and Podman
+
+- Streamline OS upgrades in RedHat Enterprise Linux utilizing [Ansible](https://www.redhat.com/en/blog/save-date-ansiblefest-2018) for virtual and bare-metal workstations
+
+Demonstrate competence working in Agile development environments
+
+Contribute to the regular maintenance and support of many other enterprise applications as well as help to maintain the underlying application infrastructure in conjunction with the System Administrators
+# RASHARD_iMAN_KELLY [FBi Hi](https://x.com/RicoThaka/status/1909305876810547312) [Normani is my victimized FRiEND](https://x.com/RicoThaka/status/1908207918450958620) 
+im not nasty! sometimes she look like this [EThio_Kash_DOLL](https://x.com/thakasartu/status/1843365154861527461) she know me from [ThisHouse](https://x.com/thakasartu/status/1866598764179492920) [Drake Know her](https://x.com/RicoThaka/status/1894116640855376167) and im confident she lost my child in [FosterCare](https://www.ossoff.senate.gov/press-releases/foster-care-investigation-sen-ossoff-releases-findings-of-13-month-probe-into-safety-of-foster-children/) now she [look like this](https://x.com/RicoThaka/status/1896167907979333821) Mr Ossof speaks on it he is one of our [GeorgiaSenators]() [Sen. Ossoff's report on failures of Georgia's foster care system outlines prolific abuse](https://www.youtube.com/watch?v=c8vjIZbliuM)
+![i Want The Job](https://pbs.twimg.com/media/Gn9sWjDbwAEUL0_?format=jpg&name=large)
+
+![earthData](https://pbs.twimg.com/media/GntKe1vaQAABYCd?format=jpg&name=large)
+
+
+![NetworkTool](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [RelatedTweet](https://pbs.twimg.com/media/GneGYtrakAAe3xT?format=jpg&name=large) [SPACEx JOB](https://x.com/BubbleGumPop626/status/1743428678095352226)
+
+# Ranger 9
+@nasa-jpl i found rthe video and put it on my blog an someone destroyed both of my accounts! @nasa [MyCatFile](https://x.com/RicoThaka/status/1907950996879454262) [DOWNLOAD](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+![Ranger9](https://pbs.twimg.com/media/GnpmhXoaYAAihlq?format=jpg&name=large)
+
+
+[RelatedTweet](https://x.com/RicoThaka/status/1907950487137312896/photo/1)
 # COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER
   [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) I know u moonlight with [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) at time, r u getting your compensation ? [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
   [RelatedTweet](https://x.com/RicoThaka/status/1907617772881969497) [FuLL_DoC - Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-14141) @CityOfLosAngeles [Welcome to the Los Angeles Aqueduct - Real Time Data](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm) [Los Angeles River - The Unpredictable! - https://waterandpower.org/](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [The Key to California’s Survival Is Hidden Underground -wired.com](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/) *WATER IS URBAN*  [The @GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
@@ -61,7 +110,7 @@ author: "RashardKelly @nasa-jpl"
 <figure>
  <a href="https://pbs.twimg.com/media/Gnk4HV9aMAAKD-T?format=jpg&name=large" > 
  <img src="https://pbs.twimg.com/media/Gnk4HV9aMAAKD-T?format=jpg&name=large" alt="Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power." /> </a>
-  <figcaption>
+  <figcaption markdown="1">
   
 [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG)
     
@@ -71,7 +120,7 @@ author: "RashardKelly @nasa-jpl"
   <figure>
  <a href="https://media.wired.com/photos/63bf201471c6b526845f1640/master/w_1600,c_limit/Floodwaters_CA_NOAA_NASA_report_Science_GettyImages-1246020220.jpg" > 
  <img src="https://media.wired.com/photos/63bf201471c6b526845f1640/master/w_1600,c_limit/Floodwaters_CA_NOAA_NASA_report_Science_GettyImages-1246020220.jpg" alt="Title added by Ord. No. 150,957, Eff. 6-13-78, Oper. 4-17-78" /> </a>
-  <figcaption> 
+  <figcaption markdown="1"> 
 
   [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) 
 
