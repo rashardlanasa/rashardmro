@@ -20,12 +20,12 @@ mermaid: true
 
 # Dear_Mayor_Bass
 Its Rashard @nasa-jpl. I am offline tomorrow bc of [cesar chavez day](https://www.lapl.org/collections-resources/blogs/lapl/tags/cesar%20chavez) I have been seeing a lot of printed media suggesting that you were dishonest during the fires. If you were in Ghana, rememeber i have an african girlfriend that calls me her husband from ethiopia an know u may be handling a [rape](https://ricothaka.github.io/rape). You sat next to me at Cahuenga an i had recentley reached out over TWitter. Here is a [CoralSample](https://x.com/RicoThaka/status/1903525815771607413) i found in [LongBeach](https://www.longbeach.gov/library). Here are some NewsPaper articles i scanned with positive and negative [gossip](https://x.com/RicoThaka/status/1906482746505228331) [Related](https://x.com/RicoThaka/status/1895910532546511179)
-![o](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/image%20(1)-1.png)
+![o](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/image%20(1)-1.png)
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman)  [![Twitter Follow](https://img.shields.io/badge/Social-@laurieofmars__-blue?style=social&logo=X)](https://twitter.com/@laurieofmars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) 
 [Escape from the Palisades: Split-second decision-making, confusing responses](https://www.latimes.com/california/story/2025-02-02/escape-from-the-palisades) 
-![Escape From The Palisades - latimes @datadesk](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/escape.png)
-![https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/image-01.png](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/image-01.png)
+![Escape From The Palisades - latimes @datadesk](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/escape.png)
+![https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/image-01.png](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/image-01.png)
 ![ScanDisk](https://pbs.twimg.com/media/Gja-F1IbcAAIX4y?format=png&name=medium)
 [Recent](https://x.com/RicoThaka/status/1905002832790704460)
 ## Mars Perseverance Sol 1456: Front Left Hazard Avoidance Camera (Hazcam)
@@ -133,14 +133,14 @@ im using some test code here that is not passing the @w3c validator i talked abo
 
 <div class="tupperware" markdown="1">
 <figure>
- <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
- <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+ <a href="https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
+ <img src="https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
 </figure>
   
   <figure>
- <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
- <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+ <a href="https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
+ <img src="https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
 </figure>
  
@@ -157,7 +157,7 @@ im using some test code here that is not passing the @w3c validator i talked abo
 Seek signs of ancient life and collect samples of rock and regolith for possible Earth return [Mars2020 on Pinterest](https://www.pinterest.com/noahzegna/perseverance-raw-images/)
 [<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01449/ids/edr/browse/ncam/NLF_1449_0795569513_633ECM_N0700000NCAM00501_01_295J01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01449/ids/edr/browse/ncam/NLF_1449_0795569513_633ECM_N0700000NCAM00501_01_295J01_1200.jpg)
 
-![linux](https://raw.githubusercontent.com/ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif)
+![linux](https://raw.githubusercontent.com/thakasartu/linux/refs/heads/master/Documentation/images/logo.gif)
 @nasa @nasa-jpl i started a repo to build my own distros with [ricothaka/linux](https://ricothaka.github.io/linux/) thats just a frontend but the codebase is linked and full of really good documentation [LinuxDocs](https://github.com/ricoThaka/linux/blob/master/Documentation/filesystems/smb/cifsroot.rst). Im going to read [TheLibrary](https://www.lapl.org/sites/default/files/press/2022/pdfs/12-6-22-lapl-inclusion-release.pdf) documentation and see how i can get a laptop or a cellphone i code remotely on or run my own builds with thier tracking software to keep the machines safe. The virtual machine i template i was working on dont have to be touched, if i know what a barebones kernel runs like #GroundDataSystems will be that much more stable! 
 ![lfs](https://www.linuxfromscratch.org/images/lfs-logo.png)
 Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
@@ -337,12 +337,12 @@ The 14 frames used to generate the mosaic were acquired on Oct. 18, 2024, the 1,
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
-[FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+[FLiGHTLiNES.CSV](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
 
 [<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)
 [RelatedTweet](https://x.com/RicoThaka/status/1885106591214801086) [RELATEDTWEET](https://x.com/RicoThaka/status/1885085716834902342)
 ![TWiNG](https://pbs.twimg.com/media/Gik-XgMbgAAg8i-?format=jpg&name=large)
-![AViRiS](https://raw.githubusercontent.com/ricoThaka/rashardmro/4a8760a2245ffc36f81b8b052a70d21690c16d9a/assets/pl0ts/AV320250123t202605_004_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
+![AViRiS](https://raw.githubusercontent.com/thakasartu/rashardmro/4a8760a2245ffc36f81b8b052a70d21690c16d9a/assets/pl0ts/AV320250123t202605_004_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
 [RelatedTweet](https://x.com/RicoThaka/status/1885104845428031838)
 ![AViRiS](https://pbs.twimg.com/media/Gik8gXfbYAMOTaQ?format=jpg&name=large)
 ![RASHARDLoGiN TWiNG](https://pbs.twimg.com/media/Gik824sbYAAbsY_?format=jpg&name=large)
@@ -534,7 +534,7 @@ Credit: [NASA](https://science.nasa.gov/mars/) /[JPL-Caltech](https://www.caltec
 
 # Macross Plus [OVA](https://archive.org/download/macross-plus-english-dub-master)
 @blackgirlscode @nasa-jpl this [is](https://youtu.be/e_G8YJtnxRs?si=8PB26BNw-uG36ZXk) real, [a](https://youtu.be/qMB7pGmuO-Y?si=xSpbQNyo0QMOVD3F)nd [i](https://youtu.be/q4rHcQSP_Ic?si=sFxjmXw1l-V3Tqm9) dont [want](https://youtu.be/K_3neT-KRRg?si=tKr6oX8XxPSxcpcD) to [be](https://youtu.be/3VcZAtO-K_Y?si=dFgiMYn--C6wc092) reprimanded [for](https://youtu.be/vY7mHqFi_Kk?si=PdW4EQbWgnqj4lwh) being [nasty](https://youtu.be/0dtGIjbe0r0?si=6UU-OpvZjkot33t0) [Classic](https://youtu.be/Mh3fmFv_Lbg?si=COm2UKpUr7yx2--y)
-[<video controls poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/secdefanime.png" src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" alt="Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)" />](https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4) 
+[<video controls poster="https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/img/secdefanime.png" src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" alt="Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)" />](https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4) 
 
 
 
@@ -837,8 +837,8 @@ Clementine was launched on 25 January 1994 at 16:34 UTC (12:34 PM EDT) from Vand
           </div>
           <div class='panelColumn'>
             <div class='rightColumn'>
-              <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/images/nasalogo_spec.svg" alt="Girl in a jacket" >
-              <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/images/nasalogo_spec.svg" width="500" alt="meatball" />
+              <img src="https://raw.githubusercontent.com/thakasartu/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/images/nasalogo_spec.svg" alt="Girl in a jacket" >
+              <img src="https://raw.githubusercontent.com/thakasartu/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/images/nasalogo_spec.svg" width="500" alt="meatball" />
       
    </div>
   </div>    

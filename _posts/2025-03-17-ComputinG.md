@@ -263,9 +263,9 @@ I dont know what im going to do with this repo, bc now i understand [Jekyll Them
 
 <article>
 # Android as a Linux device
-<video controls src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" width="100%">
+<video controls src="https://raw.githubusercontent.com/thakasartu/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4" poster="https://raw.githubusercontent.com/thakasartu/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" width="100%">
         Sorry, your browser doesn't support embedded videos, but don't worry, you can
-        <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
+        <a href="https://raw.githubusercontent.com/thakasartu/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
         and watch it with your favorite video player!
       </video>
 
@@ -278,7 +278,7 @@ I got really comfortable coding and making github commits to the point i never f
 
 
 # [GreyHound 1999](https://www.facebook.com/CaptainOfJoy/photos)
-<video controls preload="none"  poster="https://raw.githubusercontent.com/ricoThaka/cv/refs/heads/master/assets/img/windowsNt4.png">
+<video controls preload="none"  poster="https://raw.githubusercontent.com/thakasartu/cv/refs/heads/master/assets/img/windowsNt4.png">
 <source src="https://www.nybi.org/images/closure.mp4" type="video/mp4" />
   Download the
   <a href="https://www.nybi.org/images/closure.mp4">MP4</a>
