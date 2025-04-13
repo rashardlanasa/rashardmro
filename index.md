@@ -18,6 +18,12 @@ mermaid: true
  
 </div> 
 
+![JPL_DESiGNTeaM](https://nasa-jpl.github.io/explorer-1/?path=/docs/introduction--docs)
+
+### JPL's Design System
+Consisting of working code, design components, guidelines, and resources, JPL's design system for digital experiences—called Explorer 1—helps JPL's product teams build more efficiently, at scale, and on brand [ForLATER](https://nasa-jpl.github.io/explorer-1/?path=/docs/introduction--docs)
+
+
 # Dear_Mayor_Bass
 Its Rashard @nasa-jpl. I am offline tomorrow bc of [cesar chavez day](https://www.lapl.org/collections-resources/blogs/lapl/tags/cesar%20chavez) I have been seeing a lot of printed media suggesting that you were dishonest during the fires. If you were in Ghana, rememeber i have an african girlfriend that calls me her husband from ethiopia an know u may be handling a [rape](https://ricothaka.github.io/rape). You sat next to me at Cahuenga an i had recentley reached out over TWitter. Here is a [CoralSample](https://x.com/RicoThaka/status/1903525815771607413) i found in [LongBeach](https://www.longbeach.gov/library). Here are some NewsPaper articles i scanned with positive and negative [gossip](https://x.com/RicoThaka/status/1906482746505228331) [Related](https://x.com/RicoThaka/status/1895910532546511179)
 ![o](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/image%20(1)-1.png)
