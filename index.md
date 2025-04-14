@@ -18,6 +18,11 @@ mermaid: true
  
 </div> 
 
+
+[FLEXFLUX - READPDF](https://media.defense.gov/2025/Apr/02/2003681172/-1/-1/0/CSA-FAST-FLUX.PDF)
+[Related](https://x.com/RicoThaka/status/1911926486736752868)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Malicious cyber actors can conceal their activities and evade detection using fast flux, a technique that changes the IP address associated with a domain name. Follow our new guidance for strategies to detect and mitigate this national security threat. <a href="https://t.co/QXZNqRkS6v">https://t.co/QXZNqRkS6v</a> <a href="https://t.co/3M6i9dA263">pic.twitter.com/3M6i9dA263</a></p>&mdash; NSA Cyber (@NSACyber) <a href="https://twitter.com/NSACyber/status/1907866577695027462?ref_src=twsrc%5Etfw">April 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Dear_Mayor_Bass
 Its Rashard @nasa-jpl. I am offline tomorrow bc of [cesar chavez day](https://www.lapl.org/collections-resources/blogs/lapl/tags/cesar%20chavez) I have been seeing a lot of printed media suggesting that you were dishonest during the fires. If you were in Ghana, rememeber i have an african girlfriend that calls me her husband from ethiopia an know u may be handling a [rape](https://ricothaka.github.io/rape). You sat next to me at Cahuenga an i had recentley reached out over TWitter. Here is a [CoralSample](https://x.com/RicoThaka/status/1903525815771607413) i found in [LongBeach](https://www.longbeach.gov/library). Here are some NewsPaper articles i scanned with positive and negative [gossip](https://x.com/RicoThaka/status/1906482746505228331) [Related](https://x.com/RicoThaka/status/1895910532546511179)
 ![o](https://raw.githubusercontent.com/thakasartu/rashardmro/refs/heads/master/assets/images/mars/image%20(1)-1.png)
