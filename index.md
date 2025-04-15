@@ -19,6 +19,12 @@ mermaid: true
 </div> 
 
 
+### JPL's Design System
+Consisting of working code, design components, guidelines, and resources, JPL's design system for digital experiences—called Explorer 1—helps JPL's product teams build more efficiently, at scale, and on brand [ForLATER](https://nasa-jpl.github.io/explorer-1/?path=/docs/introduction--docs)
+
+![JPL_DESiGNTeaM]([https://nasa-jpl.github.io/explorer-1/?path=/docs/introduction--docs](https://nasa-jpl.github.io/explorer-1/brand-jpl-logo.svg))
+
+
 [FLEXFLUX - READPDF](https://media.defense.gov/2025/Apr/02/2003681172/-1/-1/0/CSA-FAST-FLUX.PDF)
 [Related](https://x.com/RicoThaka/status/1911926486736752868)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Malicious cyber actors can conceal their activities and evade detection using fast flux, a technique that changes the IP address associated with a domain name. Follow our new guidance for strategies to detect and mitigate this national security threat. <a href="https://t.co/QXZNqRkS6v">https://t.co/QXZNqRkS6v</a> <a href="https://t.co/3M6i9dA263">pic.twitter.com/3M6i9dA263</a></p>&mdash; NSA Cyber (@NSACyber) <a href="https://twitter.com/NSACyber/status/1907866577695027462?ref_src=twsrc%5Etfw">April 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
